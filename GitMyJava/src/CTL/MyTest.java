@@ -6,6 +6,7 @@ public class MyTest {
 		
 		System.out.println("in git java");
 		System.out.println("Conflict");
+		System.out.println("Dixit");
 	}
 
 }
