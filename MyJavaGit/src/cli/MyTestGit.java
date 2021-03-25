@@ -4,7 +4,7 @@ public class MyTestGit {
 	
 	public static void main(String[] args) {
 		
-		System.out.println("12");
+		System.out.println("in git");
 	}
 
 }
